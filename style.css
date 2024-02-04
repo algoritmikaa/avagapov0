@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:darkblue;
+    color: white;
+    border-radius:10px;
+    padding: 10px;
+}
+
+header img {
+    margin:px ;
+}
+
+header a {
+    color:white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 3px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+footer p {
+    border: 1px solid Silver ;
+}
+
+nav {
+    border: 1px solid Silver;
+}
+
+nav a {
+    text-decoration: none;
+    color:Silver ;
+    margin: 5px;
+    padding: 6px;
+}
+
+.Aa1 {
+    background-color:lightgreen ;
+    padding: 10px;
+}
+
+.Aa9 {
+    color: mediumblue;
+}
+
+.Aa6 {
+    border: 1px solid blue;
+    border-radius: 10px;
+}
+
+.A3 {
+    font-weight: 600;
+}
+
+main {
+    margin: 10px;
+}
+
+h2 {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+}
